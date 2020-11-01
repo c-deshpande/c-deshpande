@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm Chinmay!</h1>
+
 - 🌱 I’m currently learning **React**
 
 - 👯 I’m looking to collaborate on **JavaScript Projects**
