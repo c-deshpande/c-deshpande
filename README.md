@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Chinmay!</h1>
+## Hi 👋, I'm Chinmay!
 
 - 🌱 I’m currently learning **React**
 
