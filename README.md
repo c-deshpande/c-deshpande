@@ -8,7 +8,7 @@
 
 - 💬 Ask me about **Android Development**
 
-- 📫 How to reach me [**Email**](mailto:chinmay.deshpande@mavs.uta.edu)
+- 📫 How to reach me: [**Email**](mailto:chinmay.deshpande@mavs.uta.edu)
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=c-deshpande&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
