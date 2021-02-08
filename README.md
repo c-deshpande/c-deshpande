@@ -10,7 +10,7 @@
 
 - 📫 How to reach me: [**Email**](mailto:chinmay.deshpande@mavs.uta.edu)
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=c-deshpande&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=c-deshpande&layout=compact&theme=tokyonight&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
